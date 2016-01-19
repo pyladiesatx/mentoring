@@ -16,4 +16,4 @@ We've established general guidelines and resources for both our Mentors and Ment
 
 ## Going Forward
 
-We'd love our community to continue to grow and with our quarterly call for participants we hope to continue to make connections. If you have any suggestions for our program, email us at pyladiesatx@pyladies.org. If you find any errors or would like to expand on resources for our mentoring program, please submit a Pull Request, we'd love community involvement! 
+We'd love our community to continue to grow and with our quarterly call for participants we hope to continue to make connections. If you have any suggestions for our program, email us at atx@pyladies.com. If you find any errors or would like to expand on resources for our mentoring program, please submit a Pull Request, we'd love community involvement! 
